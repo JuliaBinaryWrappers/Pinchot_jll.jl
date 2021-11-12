@@ -1,0 +1,288 @@
+[[Pinchot]]
+arch = "aarch64"
+git-tree-sha1 = "861b9d9753327bd628ff5ae81f09bfc07ac74530"
+os = "macos"
+
+    [[Pinchot.download]]
+    sha256 = "613b46e760cdb01e4ed70da1abde6f25b17ad2230df6becf7ef5e89b431f38df"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.aarch64-apple-darwin.tar.gz"
+[[Pinchot]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "12559d97b8c2c262beb683d4e6f7c4d8747da89a"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "b9563210e81ecfd57db3f4d3e50e8acd0b434ba8ddc6930d5cdcd9182adebe26"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[Pinchot]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a3b8c7601a8d2e214c8edb5c8d4b9c0cf12db50"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "daa08efb15d706db091d7efc43c7e329f904a01764aa9d886f0a496484b3cef1"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[Pinchot]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b7316b8628d929df1e2d50e509fa0692f7be4d58"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "95cd5e89a40a7e80855e09f8eba141b85819d1b8427c07ffefb99f38fb1a32df"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[Pinchot]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b4dc91f3fddaeb39874cd678d7851822e4b4023"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "8ba3ee1104c3e0104a8c807dd2ba2b9c07b0a3ae412b9c359fa3f1303f1e80b0"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[Pinchot]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d4b2de3df246911005fd5c338e46baf8067c11a4"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "9b65601f24cce23459370e9bed536e5988d452e5d83aa160af30c25856914b50"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Pinchot]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fa5c0c8901eb9c0cfa9e7ce2843b4bef1073e39f"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "9ec9ba576f92ef6a5070b5ce6ff7a8572de0c0d55c8f8d11b47870807593480a"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Pinchot]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "613d98a20ec2fd08b97b478f9e25b1da54285550"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "3231c56cc23ce23b93dcee0cb5ca6ab13685fb8485189c93bdbf31e71cc9151d"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Pinchot]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d1b1783e828bab9c0d88f76d935fe17d5e29960"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "f32354eb31519151993450a22d92df1d02b4d8c1eb12ef60f3b3589e11b9d428"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Pinchot]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "367e8b1c1a4bbf17aa4e58ad33ebb34a96af1f2c"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "c408fe52e5d5fb7dd95c9a16913a1509b98d9efb5d34922028ba21e5e6de54c0"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Pinchot]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77cb5aca9d476b0590eb8b1323908039d12b63b8"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "e806c4e11e17aafcdbf3753f0115a5c373acc8a0adc3ba73437578f9a401e498"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Pinchot]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5bc55adfec9b6d3093cccbda7301edea1da568bf"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "7e6db72b24b34812d414057a52e64b3f08d9b5ee03148f4aa813000430decfb6"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Pinchot]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05b31112e35699a299759172e81157090f8baa3a"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "9b530a45cfa73028e74967a02501afe575ad142c3a350ac0784035a06b322a63"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d9be6cd4998f70a7928e7206de52e63a84a6abd"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "7d21f08fbb097c4c6c8011e600ecd26749817d8623e09d2a31c84cfa80a73b5a"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20cba0151bbe48186fd6bdace0c9805b673ce560"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "f69fb5c61d80afc565b1fac69c6b65491f41a9eda44839e46c1ff0fec15e7310"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "014ddccc7c5b36bc0c3e2dbe2677e30f086029af"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "1273a92fe67991aa072e37192948400d32fb051bfeca09106891492ff78d624f"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-linux-musl-cxx03.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b9e97fe14555e9d77794338137366091f309a1a"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "b75ca96534c850fddb29002e14c3ae13bfd0e9d0e55a4bdaf7498e73aeca83f1"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-linux-musl-cxx11.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a3d24ba6be2e62586c6eea70b6441f52c6fc514"
+os = "windows"
+
+    [[Pinchot.download]]
+    sha256 = "90cc11d37320f8f370f8b630775b302111af73f212e4765df6f924e458d7f98d"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[Pinchot]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee5709996ba22bf3734a6d47117a7693b5e3c190"
+os = "windows"
+
+    [[Pinchot.download]]
+    sha256 = "b891b4092a13eb3f9ef283d7e8ba4e5eb6f119b6dbbe05beab1d81833cf78fdd"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Pinchot]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61a33c742979b885dc10b529f8400a3e59adb9da"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "36e4356ac20005ff0b5ce3af62809d910bbd860c5980fd2027969e1f9a8dbb68"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Pinchot]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67d81f18a28c7c89fb85060df3ca3264335ef829"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "b82f35769faa92dfda4b100fe310a6c243c6a6c7ddc866e02a52291b48af5071"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+git-tree-sha1 = "6565672783767e779099466414c10a82aed4b676"
+os = "macos"
+
+    [[Pinchot.download]]
+    sha256 = "1109a16fada16ecf520761478d90ebce5ffb038507cdc38f00cd5adce20236e2"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-apple-darwin.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d71b6f99d83425d9280c6cb51839db44c09c749"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "ae3b9375ecd6ede50d7f2ee2503f53be9941d940cf2745904394a96dd0d3aefe"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5de02224ba6f91820800b036fc447468886c892"
+libc = "glibc"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "7fa9c308b8941d285c896b972837cd82ec3e53919bbd0166ad9a9dce42bffbaa"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "148fcc844e22fb8f990efe5db1e1ddf82ab047a7"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "81324a3cab254ee0e667e28afeb9b39da44f81e6100b1ee4265ec4d149346485"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69ce8924f7518b4727e5069e25b019acc0fb8a03"
+libc = "musl"
+os = "linux"
+
+    [[Pinchot.download]]
+    sha256 = "0afbe6b0245e3311d0208a26bfcecf62ce27660ad0a971932c6516347eae4564"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+git-tree-sha1 = "056aa979f9431a4a28a22b27e71b314f7a9d7202"
+os = "freebsd"
+
+    [[Pinchot.download]]
+    sha256 = "9601153efba803bdae14373ac7dd9e89a024c92e0540911130f6efa612f3e324"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-unknown-freebsd.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a434473aea3a957a7645e4a7f186a491155d66f0"
+os = "windows"
+
+    [[Pinchot.download]]
+    sha256 = "6bac357bf33e1d973239c5e316fb85fc2e23dac6bc6ca81d1f00d7beca4dfebf"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Pinchot]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e69c0d2ce76bf168eb31744f5d869c976176163"
+os = "windows"
+
+    [[Pinchot.download]]
+    sha256 = "1c80436b64fdc8d197a4dff73be6247c2f530340488eccb861ac674f5f01b954"
+    url = "https://github.com/JuliaBinaryWrappers/Pinchot_jll.jl/releases/download/Pinchot-v13.0.1+0/Pinchot.v13.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
